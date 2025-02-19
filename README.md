@@ -1,16 +1,17 @@
-## Hi there 👋
+# <summary><strong>Hi there :wave: , I'm ANDI!</strong></summary>
+Lifelong Learner
+### <summary><strong>Tools:</strong></summary>
+<p>
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+</p>
 
-<!--
-**SirinAX/SirinAX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <summary><strong>Yosh!</strong></summary>
+<p>
+    - :keyboard: I’m currently learning Java. </br>
+<p>
+ 
+### <summary><strong>Let's connect!</strong></summary>
+</a>
+<a href="https://www.instagram.com/_ndihm?igsh=MW9ndWxzbnAycHFvcQ==">
+  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>
