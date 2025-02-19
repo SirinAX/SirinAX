@@ -15,3 +15,4 @@ Lifelong Learner
 <a href="https://www.instagram.com/_ndihm?igsh=MW9ndWxzbnAycHFvcQ==">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
+#5865F2
