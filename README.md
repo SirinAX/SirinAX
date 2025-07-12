@@ -24,7 +24,7 @@
 ## 📫 Let’s Connect!
 
 <p align="left">
-  <a href="https://www.instagram.com/_ndihm?igsh=MW9ndWxzbnAycHFvcQ==" target="_blank">
+  <a href="https://www.instagram.com/_ndhmmm?igsh=MW9ndWxzbnAycHFvcQ==" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@_ndihm-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -32,5 +32,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Thanks+for+visiting+my+profile!;Keep+Learning,+Keep+Building!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Thanks+for+visiting+my+profile!" alt="Typing SVG" />
 </p>
