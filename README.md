@@ -15,7 +15,7 @@
 
 ## 📚 What I'm Up To
 
-- 💻 Currently learning **Java** to sharpen my object-oriented thinking.
+- 🎮 Learning **Game Development**
 - 🌐 Exploring the world of **web & systems development**.
 - 🔍 Always curious and open to **collaborative projects** and **open-source**.
 
