@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#1e90ff">ANDI</span>!</h1>
-<h3 align="center">🌱 Tech-Enthusiast CS Student </h3>
+<h1 align="center">Hey, I'm Andi.</h1>
+<p align="center">Tech-enthusiast CS student.</p>
 
 ---
 
@@ -8,6 +8,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Framework-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Command%20Line-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
@@ -16,8 +23,8 @@
 ## 📚 What I'm Up To
 
 - 🎮 Learning **Game Development**
-- 🌐 Exploring the world of **web & systems development**.
-- 🔍 Always curious and open to **collaborative projects** and **open-source**.
+- 🌐 Exploring **web & systems development**
+- 🔍 Open to **collaborative projects** and **open-source**
 
 ---
 
