@@ -25,6 +25,8 @@
 - 🎮 Learning **Game Development**
 - 🌐 Exploring **web & systems development**
 - 🔍 Open to **collaborative projects** and **open-source**
+- 🔐 Diving into **cyber security fundamentals**
+
 
 ---
 
